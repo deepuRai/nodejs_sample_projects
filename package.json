@@ -24,7 +24,7 @@
     "express-session": "^1.2.1",
     "express-validator": "^2.20.4",
     "method-override": "^2.3.5",
-    "mongoose": "^4.4.8",
+    "mongoose": "^5.7.5",
     "morgan": "^1.7.0",
     "node-sass": "4.13.0",
     "nodemon": "^1.9.1",
