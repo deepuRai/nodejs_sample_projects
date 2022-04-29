@@ -13,7 +13,7 @@
     "watch:css": "nodemon -e scss -w public/css -x npm run build:css"
   },
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.15.1",
     "compression": "^1.6.2",
